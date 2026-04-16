@@ -1,1 +1,2 @@
-# trabajo-grupal-git
+# trabajo-grupal-gitTrabajo práctico grupal
+trabajo practico grupal
